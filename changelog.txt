@@ -1,9 +1,15 @@
 2.11.0
     [ug50]
+        + Improved StorageESP
+        + NoSlowTest
+        + AutoLog
+        + footEXP
+        +
+2.11.0
+    [ug50]
         + Improved Watermark
         + Improved CombatLog
         + NoObstruction
-        + Removed SpawnerESP
 2.10.0
     [ug50]
         + add Welcome
